@@ -1,3 +1,7 @@
+## Introduction 
+
+Let's build an online store! So... we need some items in the store before we can do any business :) we'll implement a Product API based on a given OpenAPI specification.  The Product API represents a simple first step e-commerce system with endpoints for creating and retrieving products.
+
 ## Instructions
 
 ### Prepare Credentials
